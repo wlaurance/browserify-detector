@@ -1,6 +1,6 @@
 {
   "name": "browserify-detector",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Detect if JavaScript was prepared with Browserify",
   "main": "index.js",
   "scripts": {
